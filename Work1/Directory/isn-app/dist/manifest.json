@@ -1,0 +1,21 @@
+{
+	"short_name": "ISNApp",
+	"name": "ISNApp",
+	"lang": "en",
+	"background_color": "#36495d",
+	"theme_color": "#36495d",
+	"dir": "ltr",
+	"display": "standalone",
+	"orientation": "portrait",
+	"start_url": "/",
+	"icons": [
+		{
+			"src": "/icon/social.png",
+			"type": "image/png",
+			"sizes": "512x512",
+			"purpose": "any maskable"
+		}
+		
+	],
+	"prefer_related_applications": false
+}
